@@ -7,7 +7,7 @@ package helloworld;
 
 /**
  *
- * @author user
+ * @EduardO Hdz
  */
 public class HelloWorld {
 
@@ -16,8 +16,7 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello, World");
-        System.out.println("Happy coding");
+        System.out.println("Hello World!\n My name is: Eduardo Hdz\n and my matriculation number is: 163984\n");
     }
     
 }
